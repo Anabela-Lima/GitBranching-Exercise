@@ -23,3 +23,4 @@ public class GitPlaygroundApplication {
 // conflict expected
 
 // another local change
+// a remote change
